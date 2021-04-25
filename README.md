@@ -1,4 +1,4 @@
-# truecase Eng Sentences
+# Truecase Eng Sentences
 
 ## The script  uses NLTK and truecase
 
